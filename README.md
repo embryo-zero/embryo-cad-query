@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo CAD Query
+
+**Embryo CAD Query** is Embryo-Zero's fork of [CadQuery](https://github.com/CadQuery/cadquery), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 ![CadQuery logo](./doc/_static/logo/cadquery_logo_dark.svg)
 # CadQuery
 
